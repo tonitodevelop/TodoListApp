@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ExxmguJLTMGDTvSokEM+OJSVnyrdxfLNssdjzzaJv4v2iHMosfGQgRTSkpnMyiiusLl5hOZwe8JwwE1rfewByA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dev\\Documents\\CUBATEL\\Challenge\\backend\\TodoListApp\\src\\TodoList.Domain\\Todo.Domain.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Está ejecutando la operación \"restore\" con un origen \"HTTP\", \"http://nexus.prod.uci.cu/repository/nuget.org-proxy/\". El acceso que no sea HTTPS se quitará en una versión futura. Considere la posibilidad de migrar a un origen \"HTTPS\"."
+    }
+  ]
+}

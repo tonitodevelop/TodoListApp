@@ -1,0 +1,11 @@
+C:\Users\dev\Documents\CUBATEL\Challenge\backend\TodoListApp\src\TodoList.Domain\bin\Debug\net7.0\Todo.Domain.deps.json
+C:\Users\dev\Documents\CUBATEL\Challenge\backend\TodoListApp\src\TodoList.Domain\bin\Debug\net7.0\Todo.Domain.dll
+C:\Users\dev\Documents\CUBATEL\Challenge\backend\TodoListApp\src\TodoList.Domain\bin\Debug\net7.0\Todo.Domain.pdb
+C:\Users\dev\Documents\CUBATEL\Challenge\backend\TodoListApp\src\TodoList.Domain\obj\Debug\net7.0\Todo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Documents\CUBATEL\Challenge\backend\TodoListApp\src\TodoList.Domain\obj\Debug\net7.0\Todo.Domain.AssemblyInfoInputs.cache
+C:\Users\dev\Documents\CUBATEL\Challenge\backend\TodoListApp\src\TodoList.Domain\obj\Debug\net7.0\Todo.Domain.AssemblyInfo.cs
+C:\Users\dev\Documents\CUBATEL\Challenge\backend\TodoListApp\src\TodoList.Domain\obj\Debug\net7.0\Todo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\dev\Documents\CUBATEL\Challenge\backend\TodoListApp\src\TodoList.Domain\obj\Debug\net7.0\Todo.Domain.dll
+C:\Users\dev\Documents\CUBATEL\Challenge\backend\TodoListApp\src\TodoList.Domain\obj\Debug\net7.0\refint\Todo.Domain.dll
+C:\Users\dev\Documents\CUBATEL\Challenge\backend\TodoListApp\src\TodoList.Domain\obj\Debug\net7.0\Todo.Domain.pdb
+C:\Users\dev\Documents\CUBATEL\Challenge\backend\TodoListApp\src\TodoList.Domain\obj\Debug\net7.0\ref\Todo.Domain.dll
